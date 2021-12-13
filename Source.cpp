@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     system("CHCP 1251");
-    cout << "ìàññèâ èç ðàíäîìíûõ ÷èñåë ";
+    cout << "Ð¼Ð°ÑÑÐ¸Ð² Ð¸Ð· Ñ€Ð°Ð½Ð´Ð¾Ð¼Ð½Ñ‹Ñ… Ñ‡Ð¸ÑÐµÐ» ";
     int randomDigits[5] = {};
 
     for (int i = 0; i < 5; i++)
